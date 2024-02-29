@@ -1,2 +1,2 @@
-# 作业2 2D Game with Physics
+# 作业2-2D Game with Physics
 

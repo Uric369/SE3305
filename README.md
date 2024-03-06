@@ -1,5 +1,5 @@
 # 作业1：Roll A Ball
-![image](https://github.com/Uric369/SE3305/assets/96730554/c9bb66a6-5c71-4c55-9fc4-ddb2ae89f23a)
+![image](https://github.com/Uric369/SE3305/assets/96730554/c9bb66a6-5c71-4c55-9fc4-ddb2ae89f23a =100x200)
 
 # 步骤
 ## 1 创建 Unity 项目与项目场景

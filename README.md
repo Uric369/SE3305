@@ -14,16 +14,16 @@
 ## 功能概述
 1. 背景 (10%) ：实现可以移动的背景（详见exe文件）
 2. 平台 (20%) ：实现教程中提到的三种平台 
-![alt text](image.png)
+![image](https://github.com/Uric369/SE3305/assets/96730554/de30ebd8-8aad-4880-9543-e84d9dbec879)
 3. 角色 (15%) ：实现角色移动 （详见exe文件）
 4. 生成 (20%) ：实现无限平台生成和销毁 
-![alt text](image-1.png)
+![image](https://github.com/Uric369/SE3305/assets/96730554/5eac1724-34ea-41a1-a8f8-05d226409d7c)
 5. UI/游戏管理 (20%) ：实现计分；实现游戏管理脚本 
-![alt text](image-2.png)
+![image](https://github.com/Uric369/SE3305/assets/96730554/62efaeff-8f31-4718-a05c-20d05eb34249)
 6. 角色动画 (15%) ：实现角色动画切换 
-![alt text](image-3.png)
+![image](https://github.com/Uric369/SE3305/assets/96730554/7e7f22c5-5d04-4860-ae7e-32cf92fb8967)
 7. 加分项(+10%) ：实现不同平台或障碍物，其中需要用到其它的物理组件或编写脚本实现平台特效等，可 以参考原作者的视频教程实现风扇弹跳机关，也可以参照其他平台跳跃游戏实现其他平台或障碍。实现 其他对游戏机制的改进，也将根据实现难度和创意给予附加分
-![alt text](image-4.png)
+![image](https://github.com/Uric369/SE3305/assets/96730554/4c582693-beab-472c-8f4f-03b560ca972c)
 - 新增平台 Spring Platform
 - 新增平台 FLoating Platform
 - 新增平台 Particle Cube

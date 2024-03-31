@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scence
+  m_EditorClassIdentifier: 
+  m_GroupName: Scence
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f62e8f2bc5b71c54ca6c92ef0b94e5da
+  m_SerializeEntries:
+  - m_GUID: 8156a542adec4764eb0354d0b69f44a2
+    m_Address: IceLand
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07b88f61de746ac4ba6963c1aa8870ba
+    m_Address: CrystalCave
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae04d3efa758fee40b6250d6f352ae44
+    m_Address: Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af228e551cfb1284da53d19ed8407cac
+    m_Address: Assets/Scenes/Entry.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 33f9af1c86c2732419da7358ad798db1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fa0666a4e0a1dbc45b5d855427917300, type: 2}
+    - {fileID: 11400000, guid: 1f3204e2bfee860468b2f49498a38066, type: 2}

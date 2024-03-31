@@ -1,0 +1,4444 @@
+fileFormatVersion: 2
+guid: a8154c1117a050841834ee7cffcc401c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8960188106175320452
+    second: Sprite shape sidea_0
+  - first:
+      213: -2136579560433905225
+    second: Sprite shape sidea_2
+  - first:
+      213: -4936887299264201902
+    second: Sprite shape sidea_3
+  - first:
+      213: -593762016889409828
+    second: Sprite shape sidea_5
+  - first:
+      213: -360925147101630463
+    second: Sprite shape sidea_7
+  - first:
+      213: -3156776078801732084
+    second: Sprite shape sidea_9
+  - first:
+      213: -1858292687658785495
+    second: Sprite shape sidea_1
+  - first:
+      213: -6016534232194323014
+    second: Sprite shape sidea_4
+  - first:
+      213: -240147543165658152
+    second: Sprite shape sidea_6
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e6dbaf36407a380800000000000000
+      internalID: -8960188106175320452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b11af9b5385952e0800000000000000
+      internalID: -2136579560433905225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b38377827ac7bb0800000000000000
+      internalID: -4936887299264201902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeef2e679882c7f0800000000000000
+      internalID: -593762016889409828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1007080bd7cbdfaf0800000000000000
+      internalID: -360925147101630463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e7293b1e0e034d0800000000000000
+      internalID: -3156776078801732084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925646f65a40636e0800000000000000
+      internalID: -1858292687658785495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd64172ef9f08ca0800000000000000
+      internalID: -6016534232194323014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db9de3f413daacf0800000000000000
+      internalID: -240147543165658152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa77f89b4c5c7349b311fd65e76a72a
+      internalID: -196592737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474f0ed8a14374240a1d288dc8eafe43
+      internalID: 2118211330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0b5c3b67af0c54daf7344c90cbb320
+      internalID: 1335477134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463eb0c45453eb47a673f34484440dc
+      internalID: 704797428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e7ded0bbe22c941ab386a6070dd635
+      internalID: 2104919842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6015b620cfc2ca34c91651971e6ac316
+      internalID: -1284516481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058d6641637f7a44cb085dcb525355ef
+      internalID: -191866609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27664bdea4a500942b5cb443d612c711
+      internalID: -1135042073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0dfcc2d3abeef4a8684b1af67f2896
+      internalID: -1090577369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6879491db8fe70e49a0e39595b741164
+      internalID: -498387139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626cab0f88d32fe4c96a1517b6ed68c1
+      internalID: -122554527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c252ed9fa67794995143f2e5909085
+      internalID: 1966282421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_21
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4203225870175f7449c2b7598b08ac7c
+      internalID: 1535209855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_22
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1440055bcce0c43905a9a1e61431c9
+      internalID: -1337345383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_23
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470fe2e57f7302d43ae74a01d330fc29
+      internalID: 1457707257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f745e5f77de42f24a99bd19d71bd5805
+      internalID: -1690624031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_25
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cda9871a79ddf545b9a197fcc148572
+      internalID: 438708971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_26
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ee9dbdadd617e4e889bfaed6c5a9dc
+      internalID: 618547123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_27
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf364d9440286b468c39612bcdab6ae
+      internalID: 1955974451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_28
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8210c7f2b1fb14e81e83c84cb2a4bf
+      internalID: -741857109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_29
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 821
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf4fb88f56053246a3ee4fe08511780
+      internalID: -1556351676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b4329ac01d6f44a29cbab66030d00
+      internalID: -328212513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c1d253321b47f47b11480a8379179b
+      internalID: -1333716906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ab628cd3f1fe942b19d71f73f90980
+      internalID: 1824083774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e4d4e8ee9b68145add156e922bacd3
+      internalID: -1021909934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a9ecdb845c9bb4d8aa15904cafffbd
+      internalID: -1705945509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_5
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b42cf950815524f92c29c3f4fba4be
+      internalID: -364692232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4362456ba81c540bccda5abd492524
+      internalID: 710309686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977be967dd5e024418703034877b0f11
+      internalID: 499698749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b950ecd64e5fdcb4fa6964a4157f5290
+      internalID: 1879430209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9fb4c7faa354043b0070f9a8968de4
+      internalID: -1154616399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_40
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cd88edafa5d044ba978daa6cd2a5a8
+      internalID: -1414788142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_41
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3a26ea5f562184686410409a0e72f7
+      internalID: -145394426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd52a8d910b123489a4402a2b61bdff
+      internalID: 1984240874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_43
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf74ca61b1c42f94997d965751900116
+      internalID: 83823967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_44
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f5ab006406b734198b89f3d291c449
+      internalID: -720442079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb02d311f5fb7e74d8ce6b47f4a3416a
+      internalID: 788605245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf2ba7a45399941bfa3a5164a456c3
+      internalID: -1791996405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_47
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ea86be76077ad46afc82873193a6b5
+      internalID: -461254401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_48
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d4879fe2a0d064c8e0b6de09be8e91
+      internalID: -1120451375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_49
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9923a3e0ed6aed4686443583ecbc4fa
+      internalID: 1560448766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_50
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c93bcefc88574fa4cdce29c65cc7d
+      internalID: -698166102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_51
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541805371f3760b49a7266d0aef7bb31
+      internalID: 1235107503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_52
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d856926626970c47b9e6db0238bbcd3
+      internalID: -561266873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_53
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc834781204442d4082300ef37a98e7b
+      internalID: -733729370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_54
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5fc5aa7dc0e4246b080a42fe472395
+      internalID: -330778251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_55
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18907d7fcd4f744087cdc10547d12a4
+      internalID: -487250859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_56
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e2fd42a12b4b14e86ab521e975d85e
+      internalID: -311411167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_57
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74213642a02e10c469660994ca59fdfc
+      internalID: -713979549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_58
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cb03ab98af9224988ecaca5835ea72
+      internalID: -2109492913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_59
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 721
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cbfed09dacdb4488e22cd03ba07a88
+      internalID: -908851253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a0575aad07634e94a299a242e7c10
+      internalID: 1162085787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67114c7d1b352a94abe35e5a9a10233c
+      internalID: 707792332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc9c2692ed55294bb75e524feef6b0e
+      internalID: -1496647749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2310ccc79c715b248bd220d4d9b08a38
+      internalID: 928933838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0840437d7f47aa04680cae1a81937d1c
+      internalID: -1680714959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ade0a25ae73c547a981c3de25d999d
+      internalID: -2026087392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13cb2f499887f84db731d48e3eaca47
+      internalID: -1102075385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef03f409e6c2794594163399c346dca
+      internalID: -1125826858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30569dc7fbb89645b30295bf13de70f
+      internalID: 91776285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_69
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2959a497bbd4ff4e9e0102e5aff4c67
+      internalID: -1099603208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_70
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ad4fcee06363e458bec6f0b276fbd4
+      internalID: -1264647708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_71
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ee57723a66764abf14d75279faff3
+      internalID: -553902565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_72
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc89b3a8255584f9fb74f0c5a232ef
+      internalID: 2099947372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_73
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c30e3812981ba42b7c50543e3eaff3
+      internalID: -276578057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_74
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d784f6c79c2ae549a7ab711fabe8470
+      internalID: 1893083433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_75
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e8a281171e93e4f9e922d027bd005b
+      internalID: 2002991584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_76
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de4f8ab1bbe37f40934e05c6039ccf6
+      internalID: -1836138619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_77
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3faa6c67dfa556499075f188c514993
+      internalID: 1741378896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_78
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15f2d820c5e0c7438d96e808021899b
+      internalID: -777250984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_79
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaddc4525feef2c4a88790580a910e7b
+      internalID: -191826995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_80
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef47aab225caa54390a31ca673864a0
+      internalID: -1880146734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_81
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8405e68cf604a64ab80a3d3a1e041a9
+      internalID: -1898161738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_82
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78dd583a97f2f841a415930c82644c9
+      internalID: 701743874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_83
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3416076d923896245bf6d2712a0482e5
+      internalID: -1429049403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_84
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1cb31f4b3a06645aac9183b142b20f
+      internalID: -356856141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_85
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a405b86f1825d343a1294510fcdab4b
+      internalID: 1707786171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_86
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb9c210d130c2b4c8c6b527847d8180
+      internalID: 928756705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_87
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 621
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ebf3e62c33c4a4e84fc3ae678712eb
+      internalID: 1382844061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f18a1ef586d5548ae54ba86232ed2b
+      internalID: -2031645331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_89
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6205003cc75f4c34795aa937e03176fe
+      internalID: -661230761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b9775e86627d8488a661135490d4c8
+      internalID: -313116878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_91
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ae0de2c5ed1d4ca66467faca6728b
+      internalID: -1527394241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_92
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e0ff0de995e004fb9a6df838a47341
+      internalID: -881620170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_93
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765cde62bedf6d64e81d77d76e679fcb
+      internalID: 83165152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_94
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d80c2d44a596f548ac53fefb27901ce
+      internalID: -1194200393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_95
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66741213f82b6ee46a50b8f6c38e122f
+      internalID: -824847821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_96
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ddc75940ec9fb479a6482db6505a9e
+      internalID: -1288050236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_97
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaf5a47afb85234e8c6a150dc316a2f
+      internalID: 1779456776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_98
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53bfc898b328c044afaff8551427728
+      internalID: -661184049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_99
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d909467e953ec994496a6a760d8a1fed
+      internalID: 1323103092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_100
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896e8bad07d16444695d0ef2c32fee65
+      internalID: 967846810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_101
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb08114df79c0034d89e9e3e652acb1b
+      internalID: 591785343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_102
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c631b4224be6f408aa444264935fb1
+      internalID: 118266189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_103
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb600a42fa638454b8b79db48bc4b227
+      internalID: -762047772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_104
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf2acfd18005c4d8fc66be0278b0cc
+      internalID: -428080132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_105
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984c8177548f024b822bd26e365bdd5
+      internalID: 600778030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_106
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f945c2910c16e23498391916cf3ad213
+      internalID: 1853644762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_107
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a877e30be57a343af9e5b9de7ee654
+      internalID: -64014886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_108
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04326a9a3bc956446a535dac62f041df
+      internalID: -1232840421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_109
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db35541749952e84c82d955f0c4e5e3e
+      internalID: -1655698783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_110
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8eb48dc45510a47af1b22a4c5b9150
+      internalID: 1475944250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f53d37afabc8540b41d7d14a4efe49
+      internalID: -2041625898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_112
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e9bc53fc931044faa78dfa2bffc65b
+      internalID: -1469432663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815899ac190b3bf4cb5c0367fc5585fa
+      internalID: -809998630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_114
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a24fb77124ab3846a741376fc8a777e
+      internalID: -2076069280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a640d36a8ebf144bdd42aaff6a7f05
+      internalID: -1092060253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_116
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f332be42472044db179946258d9a6c
+      internalID: 810721529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_117
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a8446cf0cd256419841421ffe2efcb
+      internalID: -316259290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_118
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4987bbedabb42aa4ead43fa39bcd8bc9
+      internalID: -898443951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_119
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1a13a063229a34c861ce60f3169fd2
+      internalID: -768547979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_120
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2373cb04becbfa43874d07c92a2778f
+      internalID: 1174118241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_121
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef2b7793d70c0f42936e8b0963ec2b2
+      internalID: -1288272699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_122
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb25481da0332249b3150eecd6afe40
+      internalID: -94660309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_123
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b81d65c8087df4785638ee97c3b231
+      internalID: 1407201562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_124
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d81049e3386614a8f1081cb99814e5
+      internalID: -2101629995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_125
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2c389f0c0e90b40867ff9d80d05567
+      internalID: 1029517121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_126
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e090dda515406bb41905a85268b3aaf2
+      internalID: 538368036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_127
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3549ae5a715bb4181d2692c29364f9
+      internalID: -725498236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_128
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d42cde540285145b65598e9602a7b5
+      internalID: 1904793919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_129
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d354f115e7cf9c54b870e0540fa337cc
+      internalID: -844232704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_130
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eda95e45c40904a9247f8870222e2f
+      internalID: -911237632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_131
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5ce6595eab8c64ca0ef36347394a2e
+      internalID: -1808539694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_132
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98154399ff025fb42bb4ee11a6698fe3
+      internalID: -1999995238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_133
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 421
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1e4676eae87da46a5b489975388b7c
+      internalID: -1622543072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ebfd50a0f0c1f4891468583e270ab6
+      internalID: 1144846774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_135
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61696aec5da60874fbd55b198a142ccd
+      internalID: -876741864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453efd0ffad6f9948bc8ac1c7a44b229
+      internalID: 1409297868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_137
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efef34405ed616945a0edfc905d5124f
+      internalID: 1606792266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_138
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a251764a54d85ad4e8707e9fe8deb9c5
+      internalID: -593908033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_139
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2940af260c97042a1cfb73dfee3580
+      internalID: 1652244678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_140
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4230559656783f45a3ebc8f02aa0ada
+      internalID: 1770991428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_141
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb14038bb8a2b44dac4307333ce3405
+      internalID: -430238501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_142
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54624d8a80734a342a0cd303981f13ac
+      internalID: 1422916706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_143
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345412dbf1de6e5479f743e44d6c11af
+      internalID: -140346473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_144
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78bbb8432cfaac43935086e68192101
+      internalID: 41227894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_145
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfb9fe8e7cb1c844bd0def24127c337
+      internalID: -1218330638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_146
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9893de7fa0d47644b02cc6b754c0351
+      internalID: -1418993649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_147
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae84bb242886b0499b62a50e2efda4b
+      internalID: 1702343939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_148
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff3a70078e710d41a5b1603966390d8
+      internalID: -597093520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_149
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc04d0524ed70741a3aaa345c7dd60e
+      internalID: 742802104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_150
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d98766a9493df4c96925b44899764f
+      internalID: 1092898161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_151
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691af7df513eaf14ab9fe803891536ad
+      internalID: 1394859945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_152
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6331c766635fc6498a996ab93ae8d78
+      internalID: -780433765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_153
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc799271a53bde04ba43e2695e5e7f29
+      internalID: -612274748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_154
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 321
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25508b9fe85f842991924c590b1fe2
+      internalID: 387997986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6b6cce43a17bb43aa3ecf2b3d2e469
+      internalID: 1078396102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_156
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cecad4dce746ec4297b105c526f364e
+      internalID: -23110375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_157
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa292f3f156bc04fb4b8d9e5cb74aa6
+      internalID: -480210632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_158
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6872ba92c40694c96530317c314c2a
+      internalID: 423544715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_159
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8560c995eff32ce4993456e8947f4a61
+      internalID: -174803294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_160
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b40640802bd38242806fc408012cf8d
+      internalID: -265733158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_161
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b3e7a7ef5c1d94ba9f28b028918ee9
+      internalID: -715240171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_162
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52beb1dd8b603b645904129b7dc39667
+      internalID: -1677362681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_163
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a058dbed10fa7ee4093160a8c4fc5211
+      internalID: -1888670841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_164
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6a353bc9804674e8331bc41ecb0110
+      internalID: 1169658784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_165
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4678df59875ea1845b21db7b27b7ff17
+      internalID: 1205184711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_166
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e91c1f245be1b4b8f9b077a27657ad
+      internalID: -1031225599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_167
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83291f9a812564345b560db246ca9157
+      internalID: 1037016853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_168
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420dafac424bcd949bcfab6648045a2f
+      internalID: 1313234929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_169
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 221
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72618481f406a04ca1da1d8d415407b
+      internalID: -188989581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd1a292ec047824683f7e35c248f5f5
+      internalID: 1199690918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_171
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b872894219664458cfffa92a3522b7
+      internalID: 424108979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_172
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6d910a79b22b642a24998b6d526bf5
+      internalID: -279904267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_173
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda025c7f7e902448b25862d8fb97c72
+      internalID: -1766879028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_174
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547a573ee4ecaea4bb788b5c855c0470
+      internalID: 220549760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_175
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b5d5cd6f46c5f4d93250dcd29dee8c
+      internalID: 449400034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_176
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a7f1070ea7f3844b197de93de16f55
+      internalID: 2130890888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_177
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397a26789dcda4f499ef537ec9babd7b
+      internalID: 1911390111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_178
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b4f4a27478b54ebbf8156b93ea60b
+      internalID: -1816553870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_179
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a13299b90bf82044bc7982e1088924c
+      internalID: 684847713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_180
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e4b816387ecb48af741cedd8af786
+      internalID: -1281720333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_181
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e9fbd7c61d104fa7977393b05efed
+      internalID: -1074147897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_182
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac7de6cc5815224194755e1f0944987
+      internalID: -1652899120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_183
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e57cd0e877fb0f4992c0e4ef6fc3b34
+      internalID: 1503118964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_184
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 121
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e00eb04a14c6af4f8e994494f3fa7d0
+      internalID: -558095922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_185
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6261a37a949dd64f8ada99f43f6776c
+      internalID: 1668379807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_186
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051c9afbcbe2ad24684e01fba2702756
+      internalID: 1862074840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_187
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de308784d47599408b5b3673879be84
+      internalID: 283418840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_188
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe73ba3c52937444bfa9eec9e89309a
+      internalID: -295405655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_189
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a87203b39281d342aa7d229a4720edc
+      internalID: 270944129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_190
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58b2706f2aa12149b076e651114d701
+      internalID: -496153363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_191
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6b51d18519dd84296e439731afd7cd
+      internalID: 1882544630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_192
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3a88cb212d9034bbdf07a6e5f0f56e
+      internalID: -1696472378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_193
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab40d6acc210a248828d86929dbbebf
+      internalID: -1049066890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite shape sidea_194
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 21
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b49b27a370523043ae9c1ab71995501
+      internalID: -181706589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      0_0: -8960188106175320452
+      0_1: -1858292687658785495
+      0_2: -2136579560433905225
+      0_3: -4936887299264201902
+      0_4: -6016534232194323014
+      0_5: -593762016889409828
+      0_6: -240147543165658152
+      0_7: -360925147101630463
+      0_8: -196592737
+      0_9: -3156776078801732084
+      1_0: -328212513
+      1_1: -1333716906
+      1_2: 1824083774
+      1_3: -1021909934
+      1_4: -1705945509
+      1_5: -364692232
+      1_6: 710309686
+      1_7: 499698749
+      1_8: 1879430209
+      1_9: -1154616399
+      2_0: 1162085787
+      2_1: 707792332
+      2_2: -1496647749
+      2_3: 928933838
+      2_4: -1680714959
+      2_5: -2026087392
+      2_6: -1102075385
+      2_7: -1125826858
+      2_8: 91776285
+      Sprite shape sidea_10: 2118211330
+      Sprite shape sidea_100: 967846810
+      Sprite shape sidea_101: 591785343
+      Sprite shape sidea_102: 118266189
+      Sprite shape sidea_103: -762047772
+      Sprite shape sidea_104: -428080132
+      Sprite shape sidea_105: 600778030
+      Sprite shape sidea_106: 1853644762
+      Sprite shape sidea_107: -64014886
+      Sprite shape sidea_108: -1232840421
+      Sprite shape sidea_109: -1655698783
+      Sprite shape sidea_11: 1335477134
+      Sprite shape sidea_110: 1475944250
+      Sprite shape sidea_111: -2041625898
+      Sprite shape sidea_112: -1469432663
+      Sprite shape sidea_113: -809998630
+      Sprite shape sidea_114: -2076069280
+      Sprite shape sidea_115: -1092060253
+      Sprite shape sidea_116: 810721529
+      Sprite shape sidea_117: -316259290
+      Sprite shape sidea_118: -898443951
+      Sprite shape sidea_119: -768547979
+      Sprite shape sidea_12: 704797428
+      Sprite shape sidea_120: 1174118241
+      Sprite shape sidea_121: -1288272699
+      Sprite shape sidea_122: -94660309
+      Sprite shape sidea_123: 1407201562
+      Sprite shape sidea_124: -2101629995
+      Sprite shape sidea_125: 1029517121
+      Sprite shape sidea_126: 538368036
+      Sprite shape sidea_127: -725498236
+      Sprite shape sidea_128: 1904793919
+      Sprite shape sidea_129: -844232704
+      Sprite shape sidea_13: 2104919842
+      Sprite shape sidea_130: -911237632
+      Sprite shape sidea_131: -1808539694
+      Sprite shape sidea_132: -1999995238
+      Sprite shape sidea_133: -1622543072
+      Sprite shape sidea_134: 1144846774
+      Sprite shape sidea_135: -876741864
+      Sprite shape sidea_136: 1409297868
+      Sprite shape sidea_137: 1606792266
+      Sprite shape sidea_138: -593908033
+      Sprite shape sidea_139: 1652244678
+      Sprite shape sidea_14: -1284516481
+      Sprite shape sidea_140: 1770991428
+      Sprite shape sidea_141: -430238501
+      Sprite shape sidea_142: 1422916706
+      Sprite shape sidea_143: -140346473
+      Sprite shape sidea_144: 41227894
+      Sprite shape sidea_145: -1218330638
+      Sprite shape sidea_146: -1418993649
+      Sprite shape sidea_147: 1702343939
+      Sprite shape sidea_148: -597093520
+      Sprite shape sidea_149: 742802104
+      Sprite shape sidea_15: -191866609
+      Sprite shape sidea_150: 1092898161
+      Sprite shape sidea_151: 1394859945
+      Sprite shape sidea_152: -780433765
+      Sprite shape sidea_153: -612274748
+      Sprite shape sidea_154: 387997986
+      Sprite shape sidea_155: 1078396102
+      Sprite shape sidea_156: -23110375
+      Sprite shape sidea_157: -480210632
+      Sprite shape sidea_158: 423544715
+      Sprite shape sidea_159: -174803294
+      Sprite shape sidea_16: -1135042073
+      Sprite shape sidea_160: -265733158
+      Sprite shape sidea_161: -715240171
+      Sprite shape sidea_162: -1677362681
+      Sprite shape sidea_163: -1888670841
+      Sprite shape sidea_164: 1169658784
+      Sprite shape sidea_165: 1205184711
+      Sprite shape sidea_166: -1031225599
+      Sprite shape sidea_167: 1037016853
+      Sprite shape sidea_168: 1313234929
+      Sprite shape sidea_169: -188989581
+      Sprite shape sidea_17: -1090577369
+      Sprite shape sidea_170: 1199690918
+      Sprite shape sidea_171: 424108979
+      Sprite shape sidea_172: -279904267
+      Sprite shape sidea_173: -1766879028
+      Sprite shape sidea_174: 220549760
+      Sprite shape sidea_175: 449400034
+      Sprite shape sidea_176: 2130890888
+      Sprite shape sidea_177: 1911390111
+      Sprite shape sidea_178: -1816553870
+      Sprite shape sidea_179: 684847713
+      Sprite shape sidea_18: -498387139
+      Sprite shape sidea_180: -1281720333
+      Sprite shape sidea_181: -1074147897
+      Sprite shape sidea_182: -1652899120
+      Sprite shape sidea_183: 1503118964
+      Sprite shape sidea_184: -558095922
+      Sprite shape sidea_185: 1668379807
+      Sprite shape sidea_186: 1862074840
+      Sprite shape sidea_187: 283418840
+      Sprite shape sidea_188: -295405655
+      Sprite shape sidea_189: 270944129
+      Sprite shape sidea_19: -122554527
+      Sprite shape sidea_190: -496153363
+      Sprite shape sidea_191: 1882544630
+      Sprite shape sidea_192: -1696472378
+      Sprite shape sidea_193: -1049066890
+      Sprite shape sidea_194: -181706589
+      Sprite shape sidea_20: 1966282421
+      Sprite shape sidea_21: 1535209855
+      Sprite shape sidea_22: -1337345383
+      Sprite shape sidea_23: 1457707257
+      Sprite shape sidea_24: -1690624031
+      Sprite shape sidea_25: 438708971
+      Sprite shape sidea_26: 618547123
+      Sprite shape sidea_27: 1955974451
+      Sprite shape sidea_28: -741857109
+      Sprite shape sidea_29: -1556351676
+      Sprite shape sidea_40: -1414788142
+      Sprite shape sidea_41: -145394426
+      Sprite shape sidea_42: 1984240874
+      Sprite shape sidea_43: 83823967
+      Sprite shape sidea_44: -720442079
+      Sprite shape sidea_45: 788605245
+      Sprite shape sidea_46: -1791996405
+      Sprite shape sidea_47: -461254401
+      Sprite shape sidea_48: -1120451375
+      Sprite shape sidea_49: 1560448766
+      Sprite shape sidea_50: -698166102
+      Sprite shape sidea_51: 1235107503
+      Sprite shape sidea_52: -561266873
+      Sprite shape sidea_53: -733729370
+      Sprite shape sidea_54: -330778251
+      Sprite shape sidea_55: -487250859
+      Sprite shape sidea_56: -311411167
+      Sprite shape sidea_57: -713979549
+      Sprite shape sidea_58: -2109492913
+      Sprite shape sidea_59: -908851253
+      Sprite shape sidea_69: -1099603208
+      Sprite shape sidea_70: -1264647708
+      Sprite shape sidea_71: -553902565
+      Sprite shape sidea_72: 2099947372
+      Sprite shape sidea_73: -276578057
+      Sprite shape sidea_74: 1893083433
+      Sprite shape sidea_75: 2002991584
+      Sprite shape sidea_76: -1836138619
+      Sprite shape sidea_77: 1741378896
+      Sprite shape sidea_78: -777250984
+      Sprite shape sidea_79: -191826995
+      Sprite shape sidea_80: -1880146734
+      Sprite shape sidea_81: -1898161738
+      Sprite shape sidea_82: 701743874
+      Sprite shape sidea_83: -1429049403
+      Sprite shape sidea_84: -356856141
+      Sprite shape sidea_85: 1707786171
+      Sprite shape sidea_86: 928756705
+      Sprite shape sidea_87: 1382844061
+      Sprite shape sidea_88: -2031645331
+      Sprite shape sidea_89: -661230761
+      Sprite shape sidea_90: -313116878
+      Sprite shape sidea_91: -1527394241
+      Sprite shape sidea_92: -881620170
+      Sprite shape sidea_93: 83165152
+      Sprite shape sidea_94: -1194200393
+      Sprite shape sidea_95: -824847821
+      Sprite shape sidea_96: -1288050236
+      Sprite shape sidea_97: 1779456776
+      Sprite shape sidea_98: -661184049
+      Sprite shape sidea_99: 1323103092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
